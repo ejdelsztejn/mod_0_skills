@@ -1,4 +1,4 @@
-**Class Example**
+**Class 1 Example**
 
 One class that might exist in a restaurant would be the `Menu_Item` class.  The `Menu_Item` class could have instances like `breakfast_sandwich`, `spinach_salad`, and `black_bean_burger`.  
 
