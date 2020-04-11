@@ -1,0 +1,17 @@
+food = "lentil stew"
+
+is_delicious = true
+
+food = "chocolate"
+
+num2 = 45
+
+num7 = 100
+
+quotient = num7 / num2
+
+songs = ["Crowded Places", "Lucid Dreams", "Oblivion"]
+
+songs.shift
+
+food.length
